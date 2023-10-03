@@ -8,3 +8,4 @@ elif valor >=1000:
 
 else :
     print(f' vc não ganhou desconto. o valor da sua compra e de {valor}')
+
